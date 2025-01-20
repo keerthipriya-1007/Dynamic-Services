@@ -2371,4 +2371,8 @@ ul#ProTab li.active a {
   color: rgb(19 115 221); /* Specific color */
 }
 
+.bg-custom {
+  background-color: rgba(236, 200, 232, 0.5); /* Background color with transparency */
+}
+
 /*# sourceMappingURL=style.css.map */
